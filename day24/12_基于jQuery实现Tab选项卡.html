@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        .box {
+            width: 448px;
+            height: 298px;
+            border: 1px solid lightgray;
+            margin: 50px auto;
+        }
+
+        .nav > li {
+            list-style: none;
+            width: 110px;
+            height: 50px;
+            background: darkseagreen;
+            color: white;
+            text-align: center;
+            line-height: 50px;
+            float: left;
+            border: 1px solid white;
+        }
+
+        .nav > li:hover {
+            background-color: green;
+        }
+
+        .nav > .current {
+            background-color: green;
+        }
+
+        .content > li {
+            list-style: none;
+            display: none;
+        }
+
+        .content > .show {
+            display: block;
+        }
+
+        .content > li > img {
+            width: 448px;
+            height: 248px;
+
+        }
+    </style>
+
+    <script src="js/jquery-3.4.1.min.js"></script>
+
+    <script> $(function () {
+        $(".nav>li").mouseenter(function () {
+            $(this).addClass("current");
+            $(this).siblings().removeClass("current");
+            var $idx = $(this).index();
+            var $li = $(".content>li").eq($idx);
+            $li.siblings().removeClass("show");
+            $li.addClass("show");
+        })
+    }) </script>
+
+</head>
+<body>
+
+<div class="box">
+    <ul class="nav">
+        <li class="current">主页</li>
+        <li>遇见好货</li>
+        <li>年中狂欢</li>
+        <li>夏日尚新</li>
+    </ul>
+    <ul class="content">
+        <li class="show"><img src="./img/img5.jpg" alt=""></li>
+        <li><img src="./img/img1.jpg" alt=""></li>
+        <li><img src="./img/img2.jpg" alt=""></li>
+        <li><img src="./img/img3.jpg" alt=""></li>
+
+    </ul>
+</div>
+</body>
+</html>

@@ -1,0 +1,23 @@
+2019-08-28 11:01:43,020 - ERROR - 04_登录验证值http请求值POST方法.py - welcome - 68 - 欢迎界面......
+2019-08-28 11:44:17,559 - ERROR - 05_Flask日志记录.py - index - 75 - error
+2019-08-28 11:44:17,560 - ERROR - 05_Flask日志记录.py - index - 76 - exception
+NoneType: None
+2019-08-28 11:46:39,660 - ERROR - 05_Flask日志记录.py - index - 76 - error
+2019-08-28 11:46:39,660 - ERROR - 05_Flask日志记录.py - index - 77 - exception
+NoneType: None
+2019-08-28 11:46:39,660 - ERROR - 05_Flask日志记录.py - index - 83 - list index out of range
+Traceback (most recent call last):
+  File "/home/kiosk/Desktop/201905python/day34/05_Flask日志记录.py", line 80, in index
+    i = no_thing[0]  # 这里会报错，因为列表根本是空的
+IndexError: list index out of range
+2019-08-28 11:46:40,621 - ERROR - 05_Flask日志记录.py - index - 76 - error
+2019-08-28 11:46:40,621 - ERROR - 05_Flask日志记录.py - index - 77 - exception
+NoneType: None
+2019-08-28 11:46:40,621 - ERROR - 05_Flask日志记录.py - index - 83 - list index out of range
+Traceback (most recent call last):
+  File "/home/kiosk/Desktop/201905python/day34/05_Flask日志记录.py", line 80, in index
+    i = no_thing[0]  # 这里会报错，因为列表根本是空的
+IndexError: list index out of range
+2019-08-28 11:47:41,660 - ERROR - 05_Flask日志记录.py - index - 76 - error
+2019-08-28 11:47:41,660 - ERROR - 05_Flask日志记录.py - index - 77 - exception
+NoneType: None

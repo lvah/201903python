@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c69d2304-38c8-4a07-9a19-4b78e325e3b5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../DouBanMovie/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DouBanMovie/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DouBanMovie/doc/pipeline.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MachineLearning/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MachineLearning/KerasCode/01_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day31/数据分析/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day31/数据分析/01_基本折线图绘制.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day31/数据分析/02_设置坐标轴含义.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day31/数据分析/03_绘制线性函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day31/数据分析/04_绘制正弦函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day31/数据分析/05_绘制竖向子图.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day31/数据分析/06_绘制横向子图.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day31/数据分析/07_添加网格和图例.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day31/数据分析/08_散点图绘制.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day31/数据分析/09_条形图绘制.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day31/数据分析/10_绘制电影评分的条形图.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day31/数据分析/11_电影票房数据条形图展示.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day31/数据分析/12_三天票房数对比.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day31/数据分析/13_绘制直方图.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day31/数据分析/14_科学分组的直方图.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day31/数据分析/15_直方图案例.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day31/数据分析/douban.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day32/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day32/01_数组间的操作.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day32/02_numpy创建数组.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day32/03_矩阵的转置.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day32/04_numpy的索引和切片.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day32/05_numpy中数值的修改.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day32/06_获取矩阵的四角元素.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day32/07_花式索引.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day32/08_数组形状修改.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day32/09_数组拼接.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day32/10_数组分割.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day32/11_数组元素的添加与删除.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day32/12_numpy的统计函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day32/13_numpy_学生身高体重统计分析案例.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day32/14_Numpy百题大挑战精选10题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day32/14_基于Numpy的股价统计分析应用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day32/15_pandas创建Series数据类型.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day32/16_Series基本操作.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day32/17_Series运算.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day32/18_特殊的where方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day32/19_创建DataFrame数据类型.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day32/20_DataFrame基础属性和整体情况查询.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day32/21_文件读取与写入.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day32/22_分组与聚合操作之group_by.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day32/23_案例一_商品数据分析案例.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day32/24_字符串常用操作.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day32/25_案例二_消费金额和小费之间的关联与性别和吸烟与否的关系.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day32/doc/chipo.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day32/doc/data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day32/doc/tips.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day32/doc/top250_movie.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day33/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day33/03_拉格朗日插值法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day33/04_数据集成.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day33/05_数据变换_简单函数变换.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day33/06_数据变换_数据规范化.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day33/07_淘宝案例.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day33/doc/taob.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day33/应用系统负载分析与磁盘容量预测/00_服务器属性信息的提取.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day33/应用系统负载分析与磁盘容量预测/01_数据探索.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day33/应用系统负载分析与磁盘容量预测/02_数据预处理.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day33/应用系统负载分析与磁盘容量预测/03_数据建模.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day33/应用系统负载分析与磁盘容量预测/data/discdata.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day33/应用系统负载分析与磁盘容量预测/data/predictdata.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day33/电商产品评论数据情感分析/LDA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day33/电商产品评论数据情感分析/data/LDAmethod.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day33/电商产品评论数据情感分析/data/huizong.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day33/电商产品评论数据情感分析/data/meidi_jd_process_end_正面情感结果.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day33/电商产品评论数据情感分析/data/meidi_jd_process_end_负面情感结果.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day33/电商产品评论数据情感分析/data/output/meidi_jd_neg.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day33/电商产品评论数据情感分析/data/output/meidi_jd_neg_cut.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day33/电商产品评论数据情感分析/data/output/meidi_jd_pos.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day33/电商产品评论数据情感分析/data/output/meidi_jd_pos_cut.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day33/电商产品评论数据情感分析/data/stoplist.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day33/电商产品评论数据情感分析/load_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day33/电商产品评论数据情感分析/minist_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day33/电商产品评论数据情感分析/preprocessing_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_Flask第一个网站.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_路由和变量规则.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03_登录验证之http请求方法GET实现案例.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04_登录验证值http请求值POST方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05_Flask日志记录.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05_jinja2模板引擎.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/UserManage.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/01_静态文件static.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/02_会话管理session.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/03_消息闪现flash.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/04_模版引擎jinja2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jinja2测试.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/jinja2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/jinja2_base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/left.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/macro/id.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../templates/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../templates/500.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../templates/login_post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../templates/welcome.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mySpider/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zhipin/demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FisherBook/app/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../FisherBook/app/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FisherBook/app/forms/BookForm.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../FisherBook/app/forms/BookForm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FisherBook/app/web/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../FisherBook/app/web/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FisherBook/app/web/book.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../FisherBook/app/web/book.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FisherBook/app/web/secure.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../FisherBook/app/web/secure.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FisherBook/app/web/setting.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../FisherBook/app/web/setting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FisherBook/utils/HttpRequest.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../FisherBook/utils/HttpRequest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FisherBook/utils/YuShu_Book.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../FisherBook/utils/YuShu_Book.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FisherBook/utils/helper.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../FisherBook/utils/helper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MachineLearning/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../MachineLearning/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MachineLearning/doc/movie.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MachineLearning/doc/moviev2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProxyManage/.idea/ProxyManage.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProxyManage/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProxyManage/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProxyManage/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProxyManage/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProxyManage/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProxyManage/api.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProxyManage/config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProxyManage/db.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProxyManage/dump.rdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProxyManage/errors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProxyManage/run.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProxyManage/scheduler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProxyManage/spider.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProxyManage/test_proxy_vaild.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProxyManage/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day28/LaGou/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../day28/LaGou/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day28/LaGou/lagou.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day28/LaGou/lagou.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../day28/LaGou/lagou.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day28/LaGou/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../day28/LaGou/run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day29/ProxyPoolManage" beforeDir="false" afterPath="$PROJECT_DIR$/../../day29/ProxyPoolManage" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/UserManage$Flask__app_py_.coverage" NAME="Flask (app.py) Coverage Results" MODIFIED="1566974962513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/UserManage$Flask__jinja2_py_.coverage" NAME="Flask (jinja2测试.py) Coverage Results" MODIFIED="1566983529037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="73" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/list.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/macro/id.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="4" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="211">
+              <caret line="69" column="31" selection-end-line="346" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jinja2测试.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/jinja2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/doc/04_模版引擎jinja2.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SECOND">
+              <first_editor relative-caret-position="513">
+                <caret line="46" column="9" lean-forward="true" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="18" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/base.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="4" column="39" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="39" />
+              <folding>
+                <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/jinja2_base.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="7" selection-start-line="7" selection-end-line="10" selection-end-column="14" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>font</find>
+      <find>img</find>
+      <find>登录</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&quot;../static/js</replace>
+      <replace>&quot;../static/img</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/doc/01_静态文件static.md" />
+        <option value="$PROJECT_DIR$/doc/02_会话管理session.md" />
+        <option value="$PROJECT_DIR$/doc/03_消息闪现flash.py" />
+        <option value="$PROJECT_DIR$/doc/03_消息闪现flash.md" />
+        <option value="$PROJECT_DIR$/templates/login.html" />
+        <option value="$PROJECT_DIR$/templates/register.html" />
+        <option value="$PROJECT_DIR$/templates/index.html/js_weibo.html" />
+        <option value="$PROJECT_DIR$/templates/weibo/js_weibo.html" />
+        <option value="$PROJECT_DIR$/doc/04_模版引擎jinja2.md" />
+        <option value="$PROJECT_DIR$/templates/index.html" />
+        <option value="$PROJECT_DIR$/app.py" />
+        <option value="$PROJECT_DIR$/jinja2测试.py" />
+        <option value="$PROJECT_DIR$/templates/macro/id.html" />
+        <option value="$PROJECT_DIR$/templates/left.html" />
+        <option value="$PROJECT_DIR$/templates/jinja2_base.html" />
+        <option value="$PROJECT_DIR$/templates/jinja2.html" />
+        <option value="$PROJECT_DIR$/templates/base.html" />
+        <option value="$PROJECT_DIR$/templates/list.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="211" />
+    <option name="y" value="123" />
+    <option name="width" value="1701" />
+    <option name="height" value="822" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="UserManage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UserManage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UserManage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UserManage" type="462c0819:PsiDirectoryNode" />
+              <item name="doc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UserManage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UserManage" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/templates/index.html" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/templates" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Flask server.Flask (jinja2测试.py)">
+    <configuration name="jinja2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/UserManage/templates/jinja2.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="Flask (app.py)" type="Python.FlaskServer" factoryName="Flask server" temporary="true" nameIsGenerated="true">
+      <module name="UserManage" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Flask (jinja2测试.py)" type="Python.FlaskServer" factoryName="Flask server" temporary="true" nameIsGenerated="true">
+      <module name="UserManage" />
+      <option name="target" value="$PROJECT_DIR$/jinja2测试.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="UserManage" type="Python.FlaskServer" factoryName="Flask server">
+      <module name="UserManage" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Flask server.Flask (jinja2测试.py)" />
+        <item itemvalue="JavaScript Debug.jinja2.html" />
+        <item itemvalue="Flask server.Flask (app.py)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c69d2304-38c8-4a07-9a19-4b78e325e3b5" name="Default Changelist" comment="" />
+      <created>1566964201772</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566964201772</updated>
+      <workItem from="1566964207666" duration="12499000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12499000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="28" width="1922" height="918" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18609625" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.47989625" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.59014267" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Remote Host" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/doc/01_静态文件static.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="405">
+            <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/03_消息闪现flash.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="35" column="71" selection-start-line="35" selection-start-column="71" selection-end-line="35" selection-end-column="71" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#form#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="35" column="75" lean-forward="true" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="75" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#form#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/weibo/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-972" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/weibo/js_weibo.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/03_消息闪现flash.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="413">
+            <caret line="51" column="13" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/02_会话管理session.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-450">
+            <caret line="4" lean-forward="true" selection-start-line="2" selection-start-column="30" selection-end-line="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="73" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jinja2测试.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/macro/id.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/left.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/jinja2_base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" selection-start-line="7" selection-end-line="10" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/jinja2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/04_模版引擎jinja2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="513">
+            <caret line="46" column="9" lean-forward="true" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="69" column="31" selection-end-line="346" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="39" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="39" />
+          <folding>
+            <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

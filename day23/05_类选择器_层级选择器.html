@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style type="text/css">
+        table{
+            /*标签选择器*/
+            border: 1px solid black;
+            width: 50%;
+            text-align: center;
+            /*
+            如果是块极元素， 居中:  margin: 0 auto;
+            如果是行内元素， 居中: text-align: center;
+
+            */
+            margin: 0 auto;
+            /*设置表格的上外边距为50px*/
+            margin-top: 50px;
+        }
+        #table-header{
+            /*id选择器，设置表格的表头*/
+            font-weight: bold;
+            color: darkseagreen;
+            font-size: 30px;
+        }
+
+        .odd{
+            /*类选择器*/
+            background-color: lightgray;
+        }
+
+        .odd:hover{
+            /*当鼠标经过odd类对应的标签时， 元素的样式*/
+            /*是原来字体的120%倍*/
+            font-size: 120%;
+            background-color: gray;
+        }
+    </style>
+
+
+</head>
+<body>
+
+<table>
+    <caption id="table-header">表格标签</caption>
+    <tr>
+        <td>1-1</td>
+        <td>1-2</td>
+    </tr>
+    <tr class="odd">
+        <td>1-1</td>
+        <td>1-2</td>
+    </tr>
+    <tr>
+        <td>1-1</td>
+        <td>1-2</td>
+    </tr>
+    <tr class="odd">
+        <td>1-1</td>
+        <td>1-2</td>
+    </tr>
+</table>
+
+</body>
+</html>

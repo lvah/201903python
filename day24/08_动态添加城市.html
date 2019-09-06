@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script>
+        function addCity() {
+        //    1. 获取要添加的城市内容
+            var city = document.getElementById('city').value;
+
+        //    2. 判断城市是否有值， 如果有， 则添加到列表里面
+            if(city){
+            //    创建一个关于城市的文本节点
+                var textnode = document.createTextNode(city); //广州
+
+            //    创建一个li元素节点
+                var liEleNode = document.createElement('li');
+
+            //    将城市信息添加到li标签里面<li>城市名称</li>
+                liEleNode.appendChild(textnode);
+            //    将城市列表标签添加到ul标签里面去;
+                var ulEleNode = document.getElementById('city_ul');
+                ulEleNode.appendChild(liEleNode)
+
+            }else{
+                alert("城市未空");
+            }
+
+
+        }
+    </script>
+</head>
+<body>
+
+<div class="content">
+    <form>
+        <input type="text" name="city" id="city" placeholder="请输入城市">
+        <input type="button" value="添加城市" onclick="addCity()">
+    </form>
+
+<!--
+<li>深圳</li>
+
+-->
+    <ul id="city_ul">
+        <li>西安</li>
+        <li>成都</li>
+        <li>上海</li>
+    </ul>
+
+
+</div>
+
+
+
+</body>
+</html>

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+
+<h1>用户登录</h1>
+<hr/>
+<!--
+action: 将天如的数据提交到指定位置, 一般情况下时后台服务器
+method="get"
+    提交的信息会显示在url地址里面, 部重要的信息可以通过get方式提交;
+
+-->
+<form action="#" method="get">
+    <!--name属性一定要指定,叫用户传入的用户名赋值给username变量;-->
+    用户名: <input type="text" name="username"  placeholder="root"><br/>
+    密码: <input type="password" name="'password"><br/>
+    爱好:
+    <input type="checkbox" name="hobby" value="0"> 编程
+    <input type="checkbox" name="hobby" value="1"> 篮球
+    <input type="checkbox" name="hobby" value="2"> 轮滑
+    <br>
+
+    性别:
+    <input type="radio" name="gender" value="1"> 男
+    <input type="radio" name="gender" value="2"> 女
+
+
+    <br/>
+    出生日期:
+    <input type="date" name="birth">
+    <br>
+
+
+    个人简历:
+    <input type="file" name="interview">
+    <br/>
+
+
+
+
+    个人简介:
+    <textarea name="info" cols="50" rows="10" placeholder="个人简介填写........" >
+
+    </textarea>
+    <br/>
+    城市:
+    <select name="'city">
+        <option value="0">西安</option>
+        <option value="1">成都</option>
+    </select>
+    <br/>
+    <!--value时按钮里面的文字信息, 可以修改-->
+    <input type="submit" value="登录">
+    <input type="reset" value="重置">
+    <button>按钮1</button>
+    <button>按钮2</button>
+</form>
+
+
+</body>
+</html>

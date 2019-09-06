@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+{% for message in get_flashed_messages() %}
+<p style="color: red">{{message}}</p>
+
+{% endfor %}
+
+<form action="/login/" method="post">
+    {{ form.hidden_tag() }}
+    {{form.email.label }} {{ form.email() }} {{ form.email.errors }}
+    {{form.password.label }} {{ form.password() }} {{ form.password.errors }}
+    {{ form.submit() }}
+
+</form>
+</body>
+</html>

@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style type="text/css">
+        *{
+            margin: 0;
+            padding: 0;
+        }
+
+
+        .container{
+            width: 100%;
+            border: 1px solid gray;
+            line-height: 150%;
+        }
+        .header, .footer{
+            padding: 8px;
+            background-color: gray;
+            color: white;
+            /*清除向左浮动*/
+            clear: left;
+        }
+
+        .left{
+            border: 1px solid red;
+            float: left;
+            width: 20%;
+            height: 200px;
+            padding: 16px;
+        }
+
+        .content{
+            border: 1px solid red;
+            float: left;
+
+            height: 200px;
+            padding: 16px;
+        }
+
+
+    </style>
+
+</head>
+<body>
+
+<!--
+网站主页:
+    头部(header):
+    主题部分:
+        left
+        content
+   尾部(footer):
+
+-->
+
+
+<div class="container">
+    <div class="header">头部</div>
+
+    <div class="left">左边部分</div>
+    <div class="content">主题部分主题部分主题部分主题部分</div>
+
+    <div class="footer">尾部</div>
+
+</div>
+
+
+</body>
+</html>

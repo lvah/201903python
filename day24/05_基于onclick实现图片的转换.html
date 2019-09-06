@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script>
+        var count = 1;
+        function changeImg() {
+
+            count += 1;
+            //    通过for循环实现图片的切换
+            //    1. 获取图片对象
+            var imgObj = document.getElementById('img');
+            imgObj.src = './img/img' + count + '.jpg';
+
+            //如果伦勃图片结束， 从头开始轮播显示图片;
+            if(count === 5){
+                count = 0;
+            }
+        }
+    </script>
+</head>
+<body>
+<div class="box">
+    <img src="./img/img1.jpg" id="img"><br/>
+    <!--当用户点击按钮时， 切换图片到下一个-->
+    <input type="submit" value="下一页" onclick="changeImg()">
+
+</div>
+
+</body>
+</html>

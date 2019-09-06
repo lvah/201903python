@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        .container{
+            /*设置分页居中显示*/
+            margin: 0 auto;
+            width: 50%;
+
+        }
+        .pagination > li {
+            /*删除无需列表前面的标记*/
+            list-style: none;
+            /*行内块元素。（CSS2.1 新增的值）*/
+            display: inline-block;
+            /*设置宽度*/
+            width: 30px;
+
+            /*添加边框*/
+            /*border: 1px solid black;*/
+
+            /*设置字体大小*/
+            font-size: 12px;
+
+            /*字体居中*/
+            text-align: center;
+
+            /*设置内边距: 上下为5px, 左右为10px*/
+            padding: 5px 10px;
+
+            /*设置背景颜色*/
+            background-color: gold;
+        }
+
+        .pagination > li > a {
+            /*删除超链接的下划线*/
+            text-decoration: none;
+            /*设置字体颜色为黑色*/
+            color: black;
+        }
+
+        .pagination>li:hover{
+            /*background-color: goldenrod;*/
+            font-size: 110%;
+        }
+
+    </style>
+
+</head>
+<body>
+
+<div class="container">
+    <h1>分页案例</h1>
+    <ul class="pagination">
+        <li><a href="#">&lt;&lt;</a></li>
+        <li><a href="#">1</a></li>
+        <li><a href="#">2</a></li>
+        <li><a href="#">3</a></li>
+        <li>...</li>
+        <li><a href="#">18</a></li>
+        <li><a href="#">19</a></li>
+        <li><a href="#">20</a></li>
+        <li><a href="#">&gt;&gt;</a></li>
+
+    </ul>
+</div>
+
+
+</body>
+</html>

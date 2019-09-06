@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script>
+        function checkAll() {
+            //    1. 获取全选框对象
+            var checkAllEle = document.getElementById('checkAll');
+
+            //    获取当前的状态, 如果返回true， 则代表选中， 否则未选中;
+            // alert(checkAllEle.checked);
+            var checkOnes = document.getElementsByName('checkOne');
+            if (checkAllEle.checked) {
+                for (var i = 0; i < checkOnes.length; i++) {
+                    checkOnes[i].checked = true;
+                }
+
+            } else {
+                for (var i = 0; i < checkOnes.length; i++) {
+                    checkOnes[i].checked = false;
+                }
+
+            }
+
+        }
+    </script>
+</head>
+<body>
+
+
+<table style="width: 600px;margin: 0 auto;margin-top: 50px;text-align: center;" border="1px">
+    <th style="text-align: center;" colspan="5">
+        <input type="button" value="添加">
+        <input type="button" value="删除">
+    </th>
+    <tr>
+
+        <th><input type="checkbox" id="checkAll" onclick="checkAll()"></th>
+        <th>编号</th>
+        <th>姓名</th>
+        <th>性别</th>
+        <th>年龄</th>
+    </tr>
+    <tr>
+        <td><input type="checkbox" name="checkOne"></td>
+        <td>1</td>
+        <td>1</td>
+        <td>1</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td><input type="checkbox" name="checkOne"></td>
+        <td>2</td>
+        <td>1</td>
+        <td>2</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td><input type="checkbox" name="checkOne"></td>
+        <td>3</td>
+        <td>3</td>
+        <td>3</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td><input type="checkbox" name="checkOne"></td>
+        <td>4</td>
+        <td>4</td>
+        <td>1</td>
+        <td>4</td>
+    </tr>
+    <tr>
+        <td><input type="checkbox" name="checkOne"></td>
+        <td>5</td>
+        <td>5</td>
+        <td>1</td>
+        <td>5</td>
+    </tr>
+</table>
+
+
+</body>
+</html>

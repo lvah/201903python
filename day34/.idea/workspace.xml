@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="239426a3-04b0-417c-a786-c1005b5d51de" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../DouBanMovie/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DouBanMovie/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DouBanMovie/doc/pipeline.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MachineLearning/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MachineLearning/KerasCode/01_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day31/数据分析/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day31/数据分析/01_基本折线图绘制.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day31/数据分析/02_设置坐标轴含义.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day31/数据分析/03_绘制线性函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day31/数据分析/04_绘制正弦函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day31/数据分析/05_绘制竖向子图.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day31/数据分析/06_绘制横向子图.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day31/数据分析/07_添加网格和图例.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day31/数据分析/08_散点图绘制.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day31/数据分析/09_条形图绘制.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day31/数据分析/10_绘制电影评分的条形图.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day31/数据分析/11_电影票房数据条形图展示.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day31/数据分析/12_三天票房数对比.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day31/数据分析/13_绘制直方图.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day31/数据分析/14_科学分组的直方图.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day31/数据分析/15_直方图案例.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day31/数据分析/douban.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day32/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day32/01_数组间的操作.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day32/02_numpy创建数组.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day32/03_矩阵的转置.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day32/04_numpy的索引和切片.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day32/05_numpy中数值的修改.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day32/06_获取矩阵的四角元素.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day32/07_花式索引.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day32/08_数组形状修改.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day32/09_数组拼接.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day32/10_数组分割.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day32/11_数组元素的添加与删除.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day32/12_numpy的统计函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day32/13_numpy_学生身高体重统计分析案例.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day32/14_Numpy百题大挑战精选10题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day32/14_基于Numpy的股价统计分析应用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day32/15_pandas创建Series数据类型.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day32/16_Series基本操作.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day32/17_Series运算.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day32/18_特殊的where方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day32/19_创建DataFrame数据类型.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day32/20_DataFrame基础属性和整体情况查询.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day32/21_文件读取与写入.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day32/22_分组与聚合操作之group_by.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day32/23_案例一_商品数据分析案例.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day32/24_字符串常用操作.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day32/25_案例二_消费金额和小费之间的关联与性别和吸烟与否的关系.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day32/doc/chipo.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day32/doc/data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day32/doc/tips.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day32/doc/top250_movie.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day33/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day33/03_拉格朗日插值法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day33/04_数据集成.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day33/05_数据变换_简单函数变换.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day33/06_数据变换_数据规范化.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day33/07_淘宝案例.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day33/doc/taob.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day33/应用系统负载分析与磁盘容量预测/00_服务器属性信息的提取.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day33/应用系统负载分析与磁盘容量预测/01_数据探索.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day33/应用系统负载分析与磁盘容量预测/02_数据预处理.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day33/应用系统负载分析与磁盘容量预测/03_数据建模.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day33/应用系统负载分析与磁盘容量预测/data/discdata.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day33/应用系统负载分析与磁盘容量预测/data/predictdata.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day33/电商产品评论数据情感分析/LDA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day33/电商产品评论数据情感分析/data/LDAmethod.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day33/电商产品评论数据情感分析/data/huizong.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day33/电商产品评论数据情感分析/data/meidi_jd_process_end_正面情感结果.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day33/电商产品评论数据情感分析/data/meidi_jd_process_end_负面情感结果.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day33/电商产品评论数据情感分析/data/output/meidi_jd_neg.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day33/电商产品评论数据情感分析/data/output/meidi_jd_neg_cut.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day33/电商产品评论数据情感分析/data/output/meidi_jd_pos.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day33/电商产品评论数据情感分析/data/output/meidi_jd_pos_cut.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day33/电商产品评论数据情感分析/data/stoplist.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day33/电商产品评论数据情感分析/load_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day33/电商产品评论数据情感分析/minist_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day33/电商产品评论数据情感分析/preprocessing_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_Flask第一个网站.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_路由和变量规则.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_登录验证之http请求方法GET实现案例.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_登录验证值http请求值POST方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Flask日志记录.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_jinja2模板引擎.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserManage/.idea/UserManage.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserManage/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserManage/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserManage/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserManage/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserManage/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserManage/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserManage/doc/01_静态文件static.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserManage/doc/02_会话管理session.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserManage/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserManage/templates/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/500.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/login_post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/welcome.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mySpider/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhipin/demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FisherBook/app/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../FisherBook/app/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FisherBook/app/forms/BookForm.py" beforeDir="false" afterPath="$PROJECT_DIR$/../FisherBook/app/forms/BookForm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FisherBook/app/web/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../FisherBook/app/web/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FisherBook/app/web/book.py" beforeDir="false" afterPath="$PROJECT_DIR$/../FisherBook/app/web/book.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FisherBook/app/web/secure.py" beforeDir="false" afterPath="$PROJECT_DIR$/../FisherBook/app/web/secure.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FisherBook/app/web/setting.py" beforeDir="false" afterPath="$PROJECT_DIR$/../FisherBook/app/web/setting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FisherBook/utils/HttpRequest.py" beforeDir="false" afterPath="$PROJECT_DIR$/../FisherBook/utils/HttpRequest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FisherBook/utils/YuShu_Book.py" beforeDir="false" afterPath="$PROJECT_DIR$/../FisherBook/utils/YuShu_Book.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FisherBook/utils/helper.py" beforeDir="false" afterPath="$PROJECT_DIR$/../FisherBook/utils/helper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MachineLearning/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MachineLearning/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MachineLearning/doc/movie.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MachineLearning/doc/moviev2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProxyManage/.idea/ProxyManage.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProxyManage/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProxyManage/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProxyManage/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProxyManage/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProxyManage/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProxyManage/api.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProxyManage/config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProxyManage/db.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProxyManage/dump.rdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProxyManage/errors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProxyManage/run.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProxyManage/scheduler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProxyManage/spider.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProxyManage/test_proxy_vaild.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProxyManage/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day28/LaGou/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/../day28/LaGou/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day28/LaGou/lagou.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day28/LaGou/lagou.log" beforeDir="false" afterPath="$PROJECT_DIR$/../day28/LaGou/lagou.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day28/LaGou/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/../day28/LaGou/run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day29/ProxyPoolManage" beforeDir="false" afterPath="$PROJECT_DIR$/../day29/ProxyPoolManage" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/day34$05_Flask.coverage" NAME="05_Flask日志记录 Coverage Results" MODIFIED="1566964105653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/day34$04_httpPOST.coverage" NAME="04_登录验证值http请求值POST方法 Coverage Results" MODIFIED="1566961299976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/day34$02_.coverage" NAME="02_路由和变量规则 Coverage Results" MODIFIED="1566956603521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/day34$03_httpGET.coverage" NAME="03_登录验证之http请求方法GET实现案例 Coverage Results" MODIFIED="1566958921663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/day34$01_Flask.coverage" NAME="01_Flask第一个网站 Coverage Results" MODIFIED="1566955297657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/05_Flask日志记录.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="194">
+              <caret line="64" column="23" selection-start-line="64" selection-start-column="23" selection-end-line="64" selection-end-column="23" />
+              <folding>
+                <element signature="e#37#60#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/04_登录验证值http请求值POST方法.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="124">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.log">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/anaconda3/lib/python3.7/logging/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="381">
+              <caret line="112" column="10" selection-start-line="112" selection-start-column="5" selection-end-line="112" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/01_Flask第一个网站.py" />
+        <option value="$PROJECT_DIR$/02_路由和变量规则.py" />
+        <option value="$PROJECT_DIR$/05_04_登录验证值http请求值POST方法.py" />
+        <option value="$PROJECT_DIR$/03_登录验证之http请求方法GET实现案例.py" />
+        <option value="$PROJECT_DIR$/templates/LOGIN——POST.html" />
+        <option value="$PROJECT_DIR$/templates/welcome.html" />
+        <option value="$PROJECT_DIR$/templates/400.html" />
+        <option value="$PROJECT_DIR$/templates/404.html" />
+        <option value="$PROJECT_DIR$/templates/500.html" />
+        <option value="$PROJECT_DIR$/templates/login_post.html" />
+        <option value="$PROJECT_DIR$/05_jinja2模板引擎.py" />
+        <option value="$PROJECT_DIR$/templates/login.html" />
+        <option value="$PROJECT_DIR$/04_登录验证值http请求值POST方法.py" />
+        <option value="$PROJECT_DIR$/05_Flask日志记录.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="211" />
+    <option name="y" value="123" />
+    <option name="width" value="1701" />
+    <option name="height" value="822" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="day34" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day34" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day34" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day34" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.05_Flask日志记录">
+    <configuration name="01_Flask第一个网站" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="day34" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_Flask第一个网站.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="02_路由和变量规则" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="day34" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_路由和变量规则.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="03_登录验证之http请求方法GET实现案例" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="day34" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_登录验证之http请求方法GET实现案例.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="04_登录验证值http请求值POST方法" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="day34" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_登录验证值http请求值POST方法.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="05_Flask日志记录" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="day34" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_Flask日志记录.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.05_Flask日志记录" />
+        <item itemvalue="Python.04_登录验证值http请求值POST方法" />
+        <item itemvalue="Python.03_登录验证之http请求方法GET实现案例" />
+        <item itemvalue="Python.02_路由和变量规则" />
+        <item itemvalue="Python.01_Flask第一个网站" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="239426a3-04b0-417c-a786-c1005b5d51de" name="Default Changelist" comment="" />
+      <created>1566954281381</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566954281381</updated>
+      <workItem from="1566954283339" duration="10541000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10541000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="28" width="1922" height="918" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973261" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.69649804" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.6044099" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Remote Host" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.7/site-packages/flask/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-78">
+          <caret line="842" column="47" lean-forward="true" selection-start-line="842" selection-start-column="40" selection-end-line="842" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Flask第一个网站.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_路由和变量规则.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/LOGIN——POST.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/500.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/404.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_jinja2模板引擎.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="68" column="26" lean-forward="true" selection-start-line="68" selection-start-column="26" selection-end-line="68" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/login_post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/welcome.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" selection-start-line="6" selection-end-line="18" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_登录验证之http请求方法GET实现案例.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="891">
+          <caret line="66" column="13" lean-forward="true" selection-start-line="49" selection-end-line="66" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.7/logging/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="112" column="10" selection-start-line="112" selection-start-column="5" selection-end-line="112" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_Flask日志记录.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="64" column="23" selection-start-line="64" selection-start-column="23" selection-end-line="64" selection-end-column="23" />
+          <folding>
+            <element signature="e#37#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_登录验证值http请求值POST方法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

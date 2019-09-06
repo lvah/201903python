@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <style type="text/css">
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+
+        .box {
+            width: 300px;
+            height: 450px;
+            border: 1px solid gray;
+            margin: 0 auto;
+            margin-top: 50px;
+        }
+
+        .box h1 {
+            color: green;
+            font-size: 20px;
+            line-height: 35px;
+            font-weight: bold;
+            border: 1px dashed gray;
+            padding-left: 10px;
+        }
+
+
+        .box li {
+            list-style: none;
+            padding: 10px 15px;
+            border: 1px dashed gray;
+
+        }
+
+
+        .box li span {
+            background-color: gray;
+            display: inline-block;
+            width: 20px;
+            height: 20px;
+            color: white;
+            text-align: center;
+        }
+
+
+        .box li:nth-child(-n+3) span {
+            background-color: green;
+            color: white;
+        }
+
+        .content {
+            overflow: hidden;
+            margin-top: 5px;
+            display: none;
+        }
+
+        .content img {
+            width: 80px;
+            height: 120px;
+            float: left;
+        }
+
+        .content p {
+            width: 180px;
+            height: 120px;
+            float: right;
+            font-size: 12px;
+
+        }
+
+
+        .current .content{
+            display: block;
+        }
+    </style>
+    <script type="text/javascript" src="js/jquery-3.4.1.min.js"></script>
+
+    <script>
+        $(function () {
+            $('li').mouseenter(function () {
+                $(this).addClass('current');
+
+            });
+
+            $('li').mouseleave(function () {
+                $(this).removeClass('current');
+
+            });
+        })
+
+    </script>
+</head>
+<body>
+
+<div class="box">
+    <h1>电影排行榜</h1>
+    <ul>
+        <li>
+            <span>1</span> 哪吒之魔童降世
+            <div class="content ">
+                <img src="img/movie.jpg">
+                <p>
+                    天地灵气孕育出一颗能量巨大的混元珠，元始天尊将混元珠提炼成灵珠和魔丸， 灵珠投胎为人，助周伐纣时可堪大用；而魔丸则会诞出魔王，为祸人间。 元始天尊启动了天劫咒
+                </p>
+            </div>
+        </li>
+
+        <li>
+            <span>2</span> 哪吒之魔童降世
+            <div class="content ">
+                <img src="img/movie.jpg">
+                <p>
+                    天地灵气孕育出一颗能量巨大的混元珠，元始天尊将混元珠提炼成灵珠和魔丸， 灵珠投胎为人，助周伐纣时可堪大用；而魔丸则会诞出魔王，为祸人间。 元始天尊启动了天劫咒
+                </p>
+            </div>
+        </li>
+
+        <li>
+            <span>3</span> 哪吒之魔童降世
+            <div class="content">
+                <img src="img/movie.jpg">
+                <p>
+                    天地灵气孕育出一颗能量巨大的混元珠，元始天尊将混元珠提炼成灵珠和魔丸， 灵珠投胎为人，助周伐纣时可堪大用；而魔丸则会诞出魔王，为祸人间。 元始天尊启动了天劫咒
+                </p>
+            </div>
+        </li>
+        <li>
+            <span>4</span> 哪吒之魔童降世
+            <div class="content">
+                <img src="img/movie.jpg">
+                <p>
+                    天地灵气孕育出一颗能量巨大的混元珠，元始天尊将混元珠提炼成灵珠和魔丸， 灵珠投胎为人，助周伐纣时可堪大用；而魔丸则会诞出魔王，为祸人间。 元始天尊启动了天劫咒
+                </p>
+            </div>
+        </li>
+        <li>
+            <span>5</span> 哪吒之魔童降世
+            <div class="content">
+                <img src="img/movie.jpg">
+                <p>
+                    天地灵气孕育出一颗能量巨大的混元珠，元始天尊将混元珠提炼成灵珠和魔丸， 灵珠投胎为人，助周伐纣时可堪大用；而魔丸则会诞出魔王，为祸人间。 元始天尊启动了天劫咒
+                </p>
+            </div>
+        </li>
+
+    </ul>
+</div>
+
+
+</body>
+</html>

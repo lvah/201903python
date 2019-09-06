@@ -1,0 +1,689 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5c684368-3ef9-4644-b11c-c7d8fb6fe329" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../DouBanMovie/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DouBanMovie/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DouBanMovie/doc/pipeline.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MachineLearning/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MachineLearning/KerasCode/01_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day31/数据分析/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day31/数据分析/01_基本折线图绘制.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day31/数据分析/02_设置坐标轴含义.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day31/数据分析/03_绘制线性函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day31/数据分析/04_绘制正弦函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day31/数据分析/05_绘制竖向子图.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day31/数据分析/06_绘制横向子图.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day31/数据分析/07_添加网格和图例.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day31/数据分析/08_散点图绘制.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day31/数据分析/09_条形图绘制.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day31/数据分析/10_绘制电影评分的条形图.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day31/数据分析/11_电影票房数据条形图展示.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day31/数据分析/12_三天票房数对比.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day31/数据分析/13_绘制直方图.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day31/数据分析/14_科学分组的直方图.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day31/数据分析/15_直方图案例.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day31/数据分析/douban.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day32/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day32/01_数组间的操作.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day32/02_numpy创建数组.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day32/03_矩阵的转置.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day32/04_numpy的索引和切片.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day32/05_numpy中数值的修改.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day32/06_获取矩阵的四角元素.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day32/07_花式索引.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day32/08_数组形状修改.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day32/09_数组拼接.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day32/10_数组分割.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day32/11_数组元素的添加与删除.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day32/12_numpy的统计函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day32/13_numpy_学生身高体重统计分析案例.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day32/14_Numpy百题大挑战精选10题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day32/14_基于Numpy的股价统计分析应用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day32/15_pandas创建Series数据类型.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day32/16_Series基本操作.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day32/17_Series运算.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day32/18_特殊的where方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day32/19_创建DataFrame数据类型.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day32/20_DataFrame基础属性和整体情况查询.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day32/21_文件读取与写入.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day32/22_分组与聚合操作之group_by.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day32/23_案例一_商品数据分析案例.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day32/24_字符串常用操作.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day32/25_案例二_消费金额和小费之间的关联与性别和吸烟与否的关系.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day32/doc/chipo.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day32/doc/data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day32/doc/tips.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day32/doc/top250_movie.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_拉格朗日插值法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_数据集成.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_数据变换_简单函数变换.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_数据变换_数据规范化.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_淘宝案例.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/taob.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/应用系统负载分析与磁盘容量预测/00_服务器属性信息的提取.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/应用系统负载分析与磁盘容量预测/01_数据探索.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/应用系统负载分析与磁盘容量预测/02_数据预处理.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/应用系统负载分析与磁盘容量预测/03_数据建模.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/应用系统负载分析与磁盘容量预测/data/discdata.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/应用系统负载分析与磁盘容量预测/data/predictdata.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/电商产品评论数据情感分析/LDA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/电商产品评论数据情感分析/data/LDAmethod.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/电商产品评论数据情感分析/data/huizong.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/电商产品评论数据情感分析/data/meidi_jd_process_end_正面情感结果.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/电商产品评论数据情感分析/data/meidi_jd_process_end_负面情感结果.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/电商产品评论数据情感分析/data/output/meidi_jd_neg.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/电商产品评论数据情感分析/data/output/meidi_jd_neg_cut.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/电商产品评论数据情感分析/data/output/meidi_jd_pos.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/电商产品评论数据情感分析/data/output/meidi_jd_pos_cut.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/电商产品评论数据情感分析/data/stoplist.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/电商产品评论数据情感分析/load_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/电商产品评论数据情感分析/minist_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/电商产品评论数据情感分析/preprocessing_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mySpider/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhipin/demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FisherBook/app/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../FisherBook/app/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FisherBook/app/forms/BookForm.py" beforeDir="false" afterPath="$PROJECT_DIR$/../FisherBook/app/forms/BookForm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FisherBook/app/web/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../FisherBook/app/web/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FisherBook/app/web/book.py" beforeDir="false" afterPath="$PROJECT_DIR$/../FisherBook/app/web/book.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FisherBook/app/web/secure.py" beforeDir="false" afterPath="$PROJECT_DIR$/../FisherBook/app/web/secure.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FisherBook/app/web/setting.py" beforeDir="false" afterPath="$PROJECT_DIR$/../FisherBook/app/web/setting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FisherBook/utils/HttpRequest.py" beforeDir="false" afterPath="$PROJECT_DIR$/../FisherBook/utils/HttpRequest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FisherBook/utils/YuShu_Book.py" beforeDir="false" afterPath="$PROJECT_DIR$/../FisherBook/utils/YuShu_Book.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FisherBook/utils/helper.py" beforeDir="false" afterPath="$PROJECT_DIR$/../FisherBook/utils/helper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MachineLearning/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MachineLearning/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MachineLearning/doc/movie.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MachineLearning/doc/moviev2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProxyManage/.idea/ProxyManage.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProxyManage/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProxyManage/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProxyManage/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProxyManage/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProxyManage/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProxyManage/api.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProxyManage/config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProxyManage/db.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProxyManage/dump.rdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProxyManage/errors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProxyManage/run.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProxyManage/scheduler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProxyManage/spider.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProxyManage/test_proxy_vaild.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProxyManage/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day28/LaGou/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/../day28/LaGou/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day28/LaGou/lagou.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day28/LaGou/lagou.log" beforeDir="false" afterPath="$PROJECT_DIR$/../day28/LaGou/lagou.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day28/LaGou/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/../day28/LaGou/run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day29/ProxyPoolManage" beforeDir="false" afterPath="$PROJECT_DIR$/../day29/ProxyPoolManage" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/day33$load_data.coverage" NAME="load_data Coverage Results" MODIFIED="1566885100382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/电商产品评论数据情感分析" />
+    <SUITE FILE_PATH="coverage/day33$07_.coverage" NAME="07_淘宝案例 Coverage Results" MODIFIED="1566878322603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/day33$LDA.coverage" NAME="LDA Coverage Results" MODIFIED="1566886369878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/电商产品评论数据情感分析" />
+    <SUITE FILE_PATH="coverage/day33$minist_data.coverage" NAME="minist_data Coverage Results" MODIFIED="1566889891562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/电商产品评论数据情感分析" />
+    <SUITE FILE_PATH="coverage/day33$preprocessing_data.coverage" NAME="preprocessing_data Coverage Results" MODIFIED="1566887554330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/电商产品评论数据情感分析" />
+    <SUITE FILE_PATH="coverage/day33$01_.coverage" NAME="01_数据探索 Coverage Results" MODIFIED="1566893217252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/应用系统负载分析与磁盘容量预测" />
+    <SUITE FILE_PATH="coverage/day33$03_.coverage" NAME="03_数据建模 Coverage Results" MODIFIED="1566897397872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/应用系统负载分析与磁盘容量预测" />
+    <SUITE FILE_PATH="coverage/day33$00_.coverage" NAME="00_服务器属性信息的提取 Coverage Results" MODIFIED="1566892924923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/应用系统负载分析与磁盘容量预测" />
+    <SUITE FILE_PATH="coverage/day33$02_.coverage" NAME="02_数据预处理 Coverage Results" MODIFIED="1566895409652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/应用系统负载分析与磁盘容量预测" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/应用系统负载分析与磁盘容量预测/00_服务器属性信息的提取.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/应用系统负载分析与磁盘容量预测/01_数据探索.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-19">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="30" />
+              <folding>
+                <element signature="e#23#42#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/应用系统负载分析与磁盘容量预测/02_数据预处理.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="518">
+              <caret line="40" column="26" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/应用系统负载分析与磁盘容量预测/03_数据建模.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="183">
+              <caret line="45" column="53" selection-start-line="45" selection-start-column="53" selection-end-line="45" selection-end-column="53" />
+              <folding>
+                <element signature="e#519#1104#0" />
+                <element signature="e#1132#1878#0" />
+                <element signature="e#1904#2811#0" />
+                <element signature="e#2841#3632#0" />
+                <element signature="e#3655#4037#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/anaconda3/lib/python3.7/site-packages/psutil/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-409">
+              <caret line="1689" column="44" selection-start-line="1689" selection-start-column="37" selection-end-line="1689" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/03_拉格朗日插值法.py" />
+        <option value="$PROJECT_DIR$/03_数据集成.py" />
+        <option value="$PROJECT_DIR$/05_数据变换_简单函数变换.py" />
+        <option value="$PROJECT_DIR$/04_数据集成.py" />
+        <option value="$PROJECT_DIR$/06_数据变换_数据规范化.py" />
+        <option value="$PROJECT_DIR$/07_淘宝案例.py" />
+        <option value="$PROJECT_DIR$/电商产品评论数据情感分析/load_data.py" />
+        <option value="$PROJECT_DIR$/电商产品评论数据情感分析/LDA.py" />
+        <option value="$PROJECT_DIR$/电商产品评论数据情感分析/preprocessing_data.py" />
+        <option value="$PROJECT_DIR$/电商产品评论数据情感分析/minist_data.py" />
+        <option value="$PROJECT_DIR$/应用系统负载分析与磁盘容量预测/00_服务器属性信息的提取.py" />
+        <option value="$PROJECT_DIR$/应用系统负载分析与磁盘容量预测/01_数据探索.py" />
+        <option value="$PROJECT_DIR$/应用系统负载分析与磁盘容量预测/02_数据预处理.py" />
+        <option value="$PROJECT_DIR$/应用系统负载分析与磁盘容量预测/03_数据建模.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="254" />
+    <option name="y" value="128" />
+    <option name="width" value="1717" />
+    <option name="height" value="802" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="day33" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day33" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day33" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day33" type="462c0819:PsiDirectoryNode" />
+              <item name="应用系统负载分析与磁盘容量预测" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day33" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day33" type="462c0819:PsiDirectoryNode" />
+              <item name="电商产品评论数据情感分析" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/应用系统负载分析与磁盘容量预测/data" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/电商产品评论数据情感分析" />
+      <recent name="$PROJECT_DIR$/doc" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.03_数据建模">
+    <configuration name="00_服务器属性信息的提取" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="day33" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/应用系统负载分析与磁盘容量预测" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/应用系统负载分析与磁盘容量预测/00_服务器属性信息的提取.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="01_数据探索" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="day33" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/应用系统负载分析与磁盘容量预测" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/应用系统负载分析与磁盘容量预测/01_数据探索.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="02_数据预处理" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="day33" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/应用系统负载分析与磁盘容量预测" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/应用系统负载分析与磁盘容量预测/02_数据预处理.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="03_数据建模" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="day33" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/应用系统负载分析与磁盘容量预测" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/应用系统负载分析与磁盘容量预测/03_数据建模.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="03_拉格朗日插值法" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="day33" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_拉格朗日插值法.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="minist_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="day33" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/电商产品评论数据情感分析" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/电商产品评论数据情感分析/minist_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.03_数据建模" />
+        <item itemvalue="Python.02_数据预处理" />
+        <item itemvalue="Python.01_数据探索" />
+        <item itemvalue="Python.00_服务器属性信息的提取" />
+        <item itemvalue="Python.minist_data" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c684368-3ef9-4644-b11c-c7d8fb6fe329" name="Default Changelist" comment="" />
+      <created>1566871188754</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566871188754</updated>
+      <workItem from="1566871190544" duration="1638000" />
+      <workItem from="1566873095753" duration="17617000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="19255000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="28" width="1922" height="918" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2171123" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32880434" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.08819715" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.10229008" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.47341114" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" />
+      <window_info anchor="right" id="SciView" order="4" visible="true" weight="0.13315508" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/03_拉格朗日插值法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/taob.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_数据集成.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="41" column="13" lean-forward="true" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+          <folding>
+            <element signature="e#126#145#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_数据变换_数据规范化.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="19" column="55" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="317" column="43" lean-forward="true" selection-start-line="317" selection-start-column="31" selection-end-line="317" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.7/site-packages/pandas/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/电商产品评论数据情感分析/data/output/meidi_jd.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_淘宝案例.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-19">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+          <folding>
+            <element signature="e#23#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/电商产品评论数据情感分析/data/huizong.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="13904" column="1" selection-start-line="13904" selection-start-column="1" selection-end-line="13904" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/电商产品评论数据情感分析/data/output/meidi_jd.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2430" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/电商产品评论数据情感分析/data/output/meidi_jd_process_1.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/电商产品评论数据情感分析/load_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/电商产品评论数据情感分析/data/LDAmethod.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret selection-end-column="62" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/电商产品评论数据情感分析/LDA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" selection-start-line="2" selection-end-line="8" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_数据变换_简单函数变换.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/电商产品评论数据情感分析/data/meidi_jd_process_end_负面情感结果.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/电商产品评论数据情感分析/data/meidi_jd_process_end_正面情感结果.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" column="16" selection-start-column="6" selection-end-line="18" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/电商产品评论数据情感分析/data/output/meidi_jd_pos.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-810" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/电商产品评论数据情感分析/data/output/meidi_jd_pos_cut.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1944" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/电商产品评论数据情感分析/preprocessing_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
+          <folding>
+            <element signature="e#51#70#0" expanded="true" />
+            <element signature="e#106#562#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/电商产品评论数据情感分析/data/output/meidi_jd_neg_cut.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1863" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/电商产品评论数据情感分析/minist_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1431">
+          <caret line="95" selection-start-line="95" selection-end-line="96" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/电商产品评论数据情感分析/data/stoplist.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.7/site-packages/xlrd/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="110" selection-start-line="110" selection-end-line="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.7/site-packages/psutil/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-409">
+          <caret line="1689" column="44" selection-start-line="1689" selection-start-column="37" selection-end-line="1689" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/应用系统负载分析与磁盘容量预测/00_服务器属性信息的提取.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/应用系统负载分析与磁盘容量预测/01_数据探索.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-19">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="30" />
+          <folding>
+            <element signature="e#23#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/应用系统负载分析与磁盘容量预测/02_数据预处理.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="40" column="26" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/应用系统负载分析与磁盘容量预测/data/discdata_processed.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="43" selection-start-column="43" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/应用系统负载分析与磁盘容量预测/03_数据建模.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="45" column="53" selection-start-line="45" selection-start-column="53" selection-end-line="45" selection-end-column="53" />
+          <folding>
+            <element signature="e#519#1104#0" />
+            <element signature="e#1132#1878#0" />
+            <element signature="e#1904#2811#0" />
+            <element signature="e#2841#3632#0" />
+            <element signature="e#3655#4037#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

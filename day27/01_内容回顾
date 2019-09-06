@@ -1,0 +1,22 @@
+# 爬虫
+获取网页  --> 解析页面   --> 数据清洗 ----> 数据存储(file, mysql, redis)
+
+
+# 获取网页
+- urllib
+    response = urllib.request.urlopen(url)
+    response.read()
+- requests
+    response = requests.get(url)
+    response.text
+    response.content
+    -返回的状态码不是200的时候执行的内容;
+    - 编码格式的设置
+
+# BS4
+
+
+项目:
+- 图片下载器
+- csdn博客归档工具(分类)
+

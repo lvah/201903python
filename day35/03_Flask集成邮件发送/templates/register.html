@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+{% for message in get_flashed_messages() %}
+<p style="color: red">{{message}}</p>
+
+{% endfor %}
+
+<form action="/register/" method="post">
+    <input type="email" name="email" placeholder="email"><br/>
+    <input type="password" name="password" placeholder="password"><br/>
+    <input type="submit" value="注册">
+
+</form>
+</body>
+</html>

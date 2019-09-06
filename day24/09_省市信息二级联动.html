@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <!--js和html代码分离-->
+
+    <script type="text/javascript" src="js/province.js">
+
+    </script>
+</head>
+<body>
+
+<div class="content">
+    <form action="#" method="get">
+        <span>籍贯</span>
+        <!--当修改省份选项时， 执行函数changeCity的内容-->
+        <select id="province" onchange="changeCity()">
+            <option>---选择省份-----</option>
+            <option name="province" value="0">陕西</option>
+            <option name="province" value="1">山西</option>
+            <option name="province" value="2">广西</option>
+        </select>
+        <select id="city">
+            <option>---选择城市---</option>
+        </select>
+
+    </form>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,21 @@
+<!--导入Bootstrap的基模板， 自动加载css样式和js动效-->
+{% extends 'bootstrap/base.html' %}
+<!--导入html代码， 并起别名-->
+{% import 'bootstrap/wtf.html'  as wtf %}
+
+
+{%  block title %}
+
+注册
+{% endblock %}
+
+
+{% block content %}
+<div style="width:70%; margin: 0 auto" >
+
+    <h1>用户注册</h1>
+    <hr/>
+{{ wtf.quick_form(form) }}
+    </div>
+
+{% endblock %}
